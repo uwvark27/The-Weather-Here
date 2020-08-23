@@ -1,27 +1,28 @@
 {"lat":19.075984,"lon":72.877656,"weather":"Haze","tempF":82.4,"air":{"parameter":"no2","value":29.06,"lastUpdated":"2020-01-13T05:45:00.000Z","unit":"µg/m³","sourceName":"caaqm","averagingPeriod":{"value":0.25,"unit":"hours"}},"timestamp":1597682288661,"_id":"0KuJgHT6Kj1n3YrL"}
 {"lat":52.520007,"lon":13.404954,"weather":"Clouds","tempF":86.59400000000008,"timestamp":1597680091430,"_id":"2BTYCLYxliTZ5LjP"}
+{"lat":40.336317199999996,"lon":-79.59904619999999,"weather":"Rain","tempF":80.06000000000009,"air":"NO VALUE","timestamp":1598206930987,"_id":"8Cd59BFieaTY5c7N"}
 {"lat":40.3657474,"lon":-79.6223399,"weather":"Clouds","tempF":76.73000000000005,"air":["NO VALUE"],"timestamp":1597679953975,"_id":"AncfUwNpaNZlsNuB"}
 {"lat":19.075984,"lon":72.877656,"weather":"Drizzle","tempF":81.24800000000002,"air":{"parameter":"no2","value":29.06,"lastUpdated":"2020-01-13T05:45:00.000Z","unit":"µg/m³","sourceName":"caaqm","averagingPeriod":{"value":0.25,"unit":"hours"}},"timestamp":1597693215877,"_id":"C7ExblPQcBF9P6Oi"}
 {"lat":40.3657474,"lon":-79.6223399,"weather":"Clouds","tempF":82.958,"air":"NO VALUE","timestamp":1597693251793,"_id":"CH2TWCBoNIDrpmpc"}
+{"lat":35.689487,"lon":139.691706,"weather":"Rain","tempF":78.49400000000009,"air":"NO VALUE","timestamp":1598205874626,"_id":"CQ9E5UVB2blPbchf"}
 {"lat":40.3657474,"lon":-79.6223399,"weather":"Clouds","tempF":82.958,"air":"NO VALUE","timestamp":1597693726887,"_id":"EEMftBRGiNH3aaiT"}
 {"lat":52.520007,"lon":13.404954,"weather":"Clouds","tempF":86.43200000000002,"air":{"parameter":"pm10","value":10.01,"lastUpdated":"2017-01-06T09:00:00.000Z","unit":"µg/m³","sourceName":"EEA Germany","averagingPeriod":{"value":1,"unit":"hours"}},"timestamp":1597680802709,"_id":"L5pTEAtVuBjm8kT3"}
 {"lat":40.759801,"lon":-124.152578,"weather":"Mist","tempF":68.18000000000004,"air":"NO VALUE","timestamp":1597693865362,"_id":"MmH8EfntQ6UEJBl7"}
 {"lat":52.520007,"lon":13.404954,"weather":"Clouds","tempF":86.59400000000008,"timestamp":1597680203694,"_id":"NC3C2IfA3PKUufdo"}
 {"lat":40.759801,"lon":-124.152578,"weather":"Clouds","tempF":68.16200000000006,"air":"NO VALUE","timestamp":1597694775964,"_id":"O2cJ0lbW8rDVDK14"}
+{"lat":40.336317199999996,"lon":-79.59904619999999,"weather":"Rain","tempF":79.484,"air":"NO VALUE","timestamp":1598205901480,"_id":"PQzvqT9sAUHT1E1i"}
 {"lat":19.075984,"lon":72.877656,"weather":"Haze","tempF":82.4,"air":{"parameter":"no2","value":29.06,"lastUpdated":"2020-01-13T05:45:00.000Z","unit":"µg/m³","sourceName":"caaqm","averagingPeriod":{"value":0.25,"unit":"hours"}},"timestamp":1597681024207,"_id":"QcAEQZkio2SBrZgT"}
 {"lat":40.759801,"lon":-124.152578,"weather":"Mist","tempF":68.18000000000004,"air":"NO VALUE","timestamp":1597693822562,"_id":"Rlx4o5Pp7x80XaXg"}
+{"lat":40.336317199999996,"lon":-79.59904619999999,"weather":"Rain","tempF":79.484,"air":"NO VALUE","timestamp":1598205846657,"_id":"Tyy8UMmxVgflQ2wj"}
 {"lat":55.755826,"lon":37.6173,"weather":"Clear","tempF":72.32000000000006,"air":{"parameter":"co","value":290,"lastUpdated":"2017-09-11T08:00:00.000Z","unit":"µg/m³","sourceName":"Mosecom","averagingPeriod":{"value":1,"unit":"hours"}},"timestamp":1597680941367,"_id":"U4Ef79WADCaWOD2t"}
 {"lat":40.366786499999996,"lon":-79.61156150000001,"weather":"Rain","tempF":77.50400000000005,"air":"NO VALUE","timestamp":1598204923898,"_id":"XIvgOQ8AFcDtRJYi"}
 {"lat":31.230416,"lon":121.473701,"weather":"Clear","tempF":83.30000000000001,"air":"NO VALUE","timestamp":1597681019339,"_id":"XZgf5u1wgeBFcs6V"}
 {"lat":19.075984,"lon":72.877656,"weather":"Drizzle","tempF":81.24800000000002,"air":{"parameter":"no2","value":29.06,"lastUpdated":"2020-01-13T05:45:00.000Z","unit":"µg/m³","sourceName":"caaqm","averagingPeriod":{"value":0.25,"unit":"hours"}},"timestamp":1597693239161,"_id":"apfY7ozGDzVpFosZ"}
+{"lat":40.336317199999996,"lon":-79.59904619999999,"weather":"Rain","tempF":79.484,"air":"NO VALUE","timestamp":1598205831881,"_id":"eJSswnAoTYOLGGd3"}
+{"lat":40.336317199999996,"lon":-79.59904619999999,"weather":"Rain","tempF":79.484,"air":"NO VALUE","timestamp":1598205830222,"_id":"gFnnos69J9bYXdLF"}
 {"lat":19.075984,"lon":72.877656,"weather":"Haze","tempF":82.4,"air":{"parameter":"no2","value":29.06,"lastUpdated":"2020-01-13T05:45:00.000Z","unit":"µg/m³","sourceName":"caaqm","averagingPeriod":{"value":0.25,"unit":"hours"}},"timestamp":1597682436950,"_id":"igIzGDo93mp9T9pN"}
 {"lat":40.3657474,"lon":-79.6223399,"weather":"Clouds","tempF":82.958,"air":"NO VALUE","timestamp":1597693709433,"_id":"jX8mCfAv9tpNC2au"}
+{"lat":35.689487,"lon":139.691706,"weather":"Rain","tempF":78.49400000000009,"air":"NO VALUE","timestamp":1598205893306,"_id":"oQI1A6GPSztckPMa"}
 {"lat":52.520007,"lon":13.404954,"weather":"Clouds","tempF":86.59400000000008,"air":["NO VALUE"],"timestamp":1597680673092,"_id":"qulXy1Zf0axuP47R"}
 {"lat":52.520007,"lon":13.404954,"weather":"Clouds","tempF":86.59400000000008,"air":"NO VALUE","timestamp":1597680424996,"_id":"wOICk5dvNncqJOqL"}
 {"lat":40.3657474,"lon":-79.6223399,"weather":"Clouds","tempF":77.07200000000003,"air":"NO VALUE","timestamp":1597680953531,"_id":"xRj0gqORDiZkAwt9"}
-{"lat":40.336317199999996,"lon":-79.59904619999999,"weather":"Rain","tempF":79.484,"air":"NO VALUE","timestamp":1598205830222,"_id":"gFnnos69J9bYXdLF"}
-{"lat":40.336317199999996,"lon":-79.59904619999999,"weather":"Rain","tempF":79.484,"air":"NO VALUE","timestamp":1598205831881,"_id":"eJSswnAoTYOLGGd3"}
-{"lat":40.336317199999996,"lon":-79.59904619999999,"weather":"Rain","tempF":79.484,"air":"NO VALUE","timestamp":1598205846657,"_id":"Tyy8UMmxVgflQ2wj"}
-{"lat":35.689487,"lon":139.691706,"weather":"Rain","tempF":78.49400000000009,"air":"NO VALUE","timestamp":1598205874626,"_id":"CQ9E5UVB2blPbchf"}
-{"lat":35.689487,"lon":139.691706,"weather":"Rain","tempF":78.49400000000009,"air":"NO VALUE","timestamp":1598205893306,"_id":"oQI1A6GPSztckPMa"}
-{"lat":40.336317199999996,"lon":-79.59904619999999,"weather":"Rain","tempF":79.484,"air":"NO VALUE","timestamp":1598205901480,"_id":"PQzvqT9sAUHT1E1i"}
